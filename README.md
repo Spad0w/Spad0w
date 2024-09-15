@@ -20,15 +20,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itznihal&layout=compact)
 
 ---
+Let's connect 👨‍💻 and forge the future together.
+
 <a href="https://badges.pufler.dev">
     <img align="right" src="https://badges.pufler.dev/visits/Spad0w/Spad0w?color=grey" alt="Visitors badge" />
  </a>
 
 <br/>
-
-
----
-
-Let's connect 👨‍💻 and forge the future together.
-
 
